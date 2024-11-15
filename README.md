@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# React + Vite
+#Responsive Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![page](https://github.com/chandhan12/dashboard/blob/main/photos/Screenshot%202024-11-15%20235405.png)
 
-Currently, two official plugins are available:
+![sidebar](https://github.com/chandhan12/dashboard/blob/main/photos/Screenshot%202024-11-15%20235443.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# dashboard
->>>>>>> c62fe7e2bf96136a9565def79a38ff74c1f8ad91
+![close](https://github.com/chandhan12/dashboard/blob/main/photos/Screenshot%202024-11-15%20235459.png)
